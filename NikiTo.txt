@@ -1,9 +1,21 @@
-<<<<<<< HEAD
+
+Zdraveite tim, uspeshnta rabota. :):)
+Upgrade!!!
 Zdraveite tim, uspeshnta rabota. :):)
 Uspeshna rabota momcheta
-=======
 Zdraveite tim, uspeshnta rabota. :):)
+<<<<<<< HEAD
 Upgrade!!!
 >>>>>>> 73ac2d11483db8f075c8222f17fbc6c4a859494e
 da
 fact
+=======
+
+Edin Red Ot Men
+Vtori :D
+
+da
+
+dopulnenie 2.0
+
+>>>>>>> 6b0cff6dc904d4bb775cbc2d2219ae81639ef868
