@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Zdraveite tim, uspeshnta rabota. :):)
 Uspeshna rabota momcheta
+=======
+Zdraveite tim, uspeshnta rabota. :):)
+Upgrade!!!
+>>>>>>> 73ac2d11483db8f075c8222f17fbc6c4a859494e
