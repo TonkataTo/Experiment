@@ -1,5 +1,17 @@
 <<<<<<< HEAD
 Zdraveite tim, uspeshnta rabota. :):)
+Upgrade!!!
+=======
+<<<<<<< HEAD
+Zdraveite tim, uspeshnta rabota. :):)
 Uspeshna rabota momcheta
 =======
 Zdraveite tim, uspeshnta rabota. :):)
+<<<<<<< HEAD
+=======
+Upgrade!!!
+>>>>>>> 73ac2d11483db8f075c8222f17fbc6c4a859494e
+da
+>>>>>>> c825311dbc43f983a3b7c91ef760f71177152cab
+dopulnenie 2.0
+>>>>>>> 9a841c7dc5f2c4f910b35e27d904acd85b7a0d70
